@@ -4,9 +4,9 @@
 # DAF is a work in progress open-source basic dictionary attack tool.
 # Currently, DAF is limited to the Hashlib module and is very basic in nature.
 #
-#  ----------------------
-# |    INSTALLATION      |
-#  ----------------------
+#  --------------------
+#     INSTALLATION      
+#  --------------------
 #
 #   chmod +x daf.py
 #   mv daf.py daf
