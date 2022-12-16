@@ -8,7 +8,5 @@
 #     INSTALLATION      
 #  ---------------------
 #
-#   chmod +x daf.py
-#   mv daf.py daf
-#   cp daf ~/bin
-#   edit ownership to root (this can be done when logged in as root)
+# chmod +x install.sh
+# sudo ./install.sh
