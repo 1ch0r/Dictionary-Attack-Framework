@@ -1,5 +1,5 @@
 #!/bin/sh
 
-chmod +x daf.py
-mv daf.py daf
-cp daf ~/bin
+sudo chmod +x daf.py
+sudo mv daf.py daf
+sudo cp daf /bin
